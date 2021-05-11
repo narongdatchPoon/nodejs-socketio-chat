@@ -1,0 +1,9 @@
+{
+  "name": "nodejs_chat",
+  "version": "2.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4",
+    "socket.io": "^2.2.0"
+  }
+}
